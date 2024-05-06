@@ -1,0 +1,25 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 800px;
+}
+.summery-heading {
+  color: #616e7c;
+  margin-bottom: 10px;
+  font-size: 22px;
+}
+.amount {
+  color: black;
+}
+.cart-items {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+.checkout-btn {
+  border-radius: 5px;
+  border: 0px;
+  width: 300px;
+  height: 30px;
+  background-color: #0b69ff;
+  color: white;
+}
